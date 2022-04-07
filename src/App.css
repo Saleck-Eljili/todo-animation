@@ -24,7 +24,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  width: 520px;
+  width: 100%;
   min-height: 600px;
   background: #161a2b;
   text-align: center;

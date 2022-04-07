@@ -14,10 +14,10 @@ function ZoomExample(props) {
   return (
     <div className="test">
       <Zoom when={show}>
-        <h1>React Reveal</h1>
+        <h1>Saleck EL JILI</h1>
       </Zoom>
       <button type="button" onClick={toggleShow}>
-        Click to {show ? "Hide" : "Show"}
+        Click to {show ? "Hide" : "Show"} my name
       </button>
     </div>
   );

@@ -26,7 +26,7 @@ function ZoomExample(props) {
 function App() {
   return (
     <>
-      <ZoomExample />
+      <ZoomExample className="animated bounce infinite" />
       <div className="todo-app">
         <TodoList />
       </div>

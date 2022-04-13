@@ -29,9 +29,9 @@ Quatre type des animation css on utilise animation-duration-left, animation-dura
 
 > **Les implémentations :**
 
-useState on la utilisé pour stoquer les todo dans un state et pouvoir les modifier et le suprimer
+useState je l’ai utilisé pour stoquer les todo dans un state et pouvoir les modifier et le suprimer
 
-usereffect on le a utilisé pour qu’on voit le changement de todo a temps réel
+usereffect je l’ai utilisé pour qu’on voit le changement de todo a temps réel
 
 react-reveal : je l’ai utilisé pour faire une animation qui affiche mon nom
 
